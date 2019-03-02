@@ -1,4 +1,4 @@
-# STATISTICS-3-STATISTICS-4_Assignment_10.11439
+# STATISTICS-BASICS
 
 Assignment Submission for Session STATISTICS-3-STATISTICS-4.
 
